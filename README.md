@@ -1,6 +1,6 @@
 # Digital-Clock
-Digital Clock
 
-HTML, CSS & JAVASCRIPT
+
+Simple Digital Clock using HTML, CSS & JAVASCRIPT
 
 [DEMO] ::https://aneal07.github.io/Digital-Clock/
