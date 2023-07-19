@@ -1,6 +1,6 @@
 
 
-[DEMO] ::https://aneal07.github.io/Digital-Clock/
+[Live site](https://aneal07.github.io/Digital-Clock/)
 
 Digital Clock
 This is a simple digital clock built with HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, updating every second.
